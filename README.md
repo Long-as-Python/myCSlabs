@@ -22,3 +22,6 @@
     </tr>
 </table>
 <a>to run lab you need to find built program in lab folder. Run .exe program and folow the instructions given in program</a>
+<img src="exaple.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
